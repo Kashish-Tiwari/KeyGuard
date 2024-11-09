@@ -67,7 +67,7 @@ const router = useRouter();
 
         {/* Phone OTP Section  */}
 
-        {/* <div className="mb-4">
+         <div className="mb-4">
           <label className="block text-gray-700 font-semibold mb-2">Phone Number</label>
           <input
             className="w-full px-4 py-2 border border-gray-300 rounded-md text-black focus:outline-none focus:ring-2 focus:ring-indigo-500"
@@ -82,7 +82,7 @@ const router = useRouter();
           >
             Send OTP to Phone
           </button>
-        </div> */}
+        </div> 
 
         {/* Message Display */}
         {message && (
