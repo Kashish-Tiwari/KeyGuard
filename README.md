@@ -32,13 +32,13 @@ This project is built with Next.js (14), TypeScript, Tailwind CSS, and integrate
 # Setup Instructions
 Follow these steps to set up and run the KeyGuard project locally:
 
-1. Clone the Repository
-   git clone https://github.com/your-username/KeyGuard.git
-   cd KeyGuard
+1. # Clone the Repository
+       git clone https://github.com/your-username/KeyGuard.git
+       cd KeyGuard
 
-2. Install Dependencies
-To install the necessary dependencies, run the following command:
-    npm install
+2. # Install Dependencies
+# To install the necessary dependencies, run the following command:
+      npm install
 
 3. Set Up Environment Variables
 Create a .env.local file in the root directory of your project and configure the following environment variables:
@@ -57,7 +57,7 @@ Create a .env.local file in the root directory of your project and configure the
  # JWT secret for token signing
     JWT_SECRET=your-jwt-secret
 4. Run the Development Server
-To start the development server, run:
+# To start the development server, run:
      npm run dev
 Once the server is running, you can view the application by navigating to:
     http://localhost:3000
