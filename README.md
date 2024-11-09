@@ -1,4 +1,4 @@
-# KeyGuard - OTP Service
+# KeyGuard - 2FA OTP Service
 KeyGuard is a Two-Factor Authentication (2FA) service that generates and sends One-Time Passwords (OTPs) via email (using Nodemailer) and SMS (using Twilio). It ensures secure user authentication by validating OTPs sent to the user's email or phone.
 
 This project is built with Next.js (14), TypeScript, Tailwind CSS, and integrates Nodemailer for email delivery and Twilio for SMS-based OTPs.
